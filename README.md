@@ -1,5 +1,4 @@
 - 😊 Hi, I’m Alok Campbell - @alokcampbell
-- 👀 I’m currently helping in the building of [Swiftink.io](https://swiftink.io), a **speech-to-text** service, utilizing the **cutting-edge** of artificial intelligence research
 - 🌳 I’m currently learning **Cloud Computing**
 - 📫 How to reach me
   - Email [alokcampbell@gmail.com](mailto:alokcampbell@gmail.com)
